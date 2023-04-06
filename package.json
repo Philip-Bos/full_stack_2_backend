@@ -4,8 +4,7 @@
   "description": "full-stack-2-api",
   "main": "dist/index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js",
-    "build": "tsc"
+    "start": "tsc && node dist/index.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
