@@ -30,5 +30,5 @@ To run the backend application:
 ## Notes
 
 - This application was built as part of the Match community onboarding process.
-- The frontend user interface has been built in a [separate repository](https://github.com/philip-bos/blog-app-backend.git) and is not included in this codebase.
+- The frontend user interface has been built in a [separate repository](https://github.com/philip-bos/blog-app-frontend.git) and is not included in this codebase.
 - The code has been written to be as simple and easy to understand as possible, with comments and descriptive variable names.
